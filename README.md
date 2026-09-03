@@ -1,6 +1,6 @@
 # paqetManager
 
-A supervisor and automated setup daemon for [paqet](https://github.com/houqp/paqet) (high-speed network tunneling over KCP).
+A supervisor and automated setup daemon for [paqet](https://github.com/hanselime/paqet) (high-speed network tunneling over KCP).
 
 `paqetManager` bundles architecture-specific `paqet` binaries, automatically detects network routing and router MAC addresses (resolving ARP dynamically), generates configuration files, and supervises the child process with periodic router MAC refreshes and graceful restarts.
 
