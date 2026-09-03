@@ -1,0 +1,12 @@
+# Binaries
+main
+paqetManager
+bin/paqetManager
+release/
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
